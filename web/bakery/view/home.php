@@ -12,16 +12,16 @@
         <link href="https://fonts.googleapis.com/css?family=Righteous&display=swap&subset=latin-ext" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Poppins&display=swap" rel="stylesheet"> 
         <!-- Place favicon.ico in the root directory -->
-        <link rel="icon" type="image/png" href="img/logo/logoPr24test.png" sizes="32x32" />
-        <link rel="icon" type="image/png" href="img/logo/logoPr24test.png" sizes="16x16" />
-        <link rel="stylesheet" href="css/bootstrap.min.css">
-        <link rel="stylesheet" href="css/owl.carousel.min.css">
-        <link rel="stylesheet" href="css/font-awesome.min.css">
-        <link rel="stylesheet" href="css/reset.css">
-        <link rel="stylesheet" href="css/style.css">
-        <link rel="stylesheet" href="css/animate.css">
-        <link rel="stylesheet" href="css/responsive.css">
-        <script src="js/vendor/modernizr-2.8.3.min.js"></script>
+        <link rel="icon" type="image/png" href="html/img/logo/logoPr24test.png" sizes="32x32" />
+        <link rel="icon" type="image/png" href="html/img/logo/logoPr24test.png" sizes="16x16" />
+        <link rel="stylesheet" href="html/css/bootstrap.min.css">
+        <link rel="stylesheet" href="html/css/owl.carousel.min.css">
+        <link rel="stylesheet" href="html/css/font-awesome.min.css">
+        <link rel="stylesheet" href="html/css/reset.css">
+        <link rel="stylesheet" href="html/css/style.css">
+        <link rel="stylesheet" href="html/css/animate.css">
+        <link rel="stylesheet" href="html/css/responsive.css">
+        <script src="html/js/vendor/modernizr-2.8.3.min.js"></script>
 
     </head>
     <body>
@@ -47,7 +47,7 @@
                                                     <div class="col-md-9 col-sm-9 col-xs-9">
                                                         <div class="row">
                                                             <div class="col-md-8 col-sm-8 col-xs-8">
-                                                                <a href="index.html"><img class="img-responsive logo" src="img/logo/logoPr23.png" alt="restorant" /></a>
+                                                                <a href="home.php"><img class="img-responsive logo" src="html/img/logo/logoPr23.png" alt="restorant" /></a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -88,7 +88,7 @@
         <section id="section0" class="slider-area"> 
             <div class="main-slider owl-theme owl-carousel"> 
                 <!-- Start Slingle Slide -->
-                <div class="single-slide item" style="background-image: url(img/perso/les-croisettes_2000.png)">
+                <div class="single-slide item" style="background-image: url(html/img/perso/les-croisettes_2000.png)">
 
                     <!-- <img src="img/slider/placehold.png"> -->
 
@@ -98,23 +98,23 @@
                                 <div class="row">
                                         <div class="slide-content-wrapper text-center">
                                             <div class="slide-content">
-                                                <img class="classic" src="img/logo/cemrebakerylogo.png">
+                                                <img class="classic" src="html/img/logo/cemrebakerylogo.png">
                                                 <h3>BAKERY MAKES </h3>
                                                 <h2>A Taste Of  The Good Life</h2>
                                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sagittis leo vitae lacinia congue.</p>
 
                                                 <a class="default-btn" href="about.html">Learn more</a>
-                                                <img class="classic" src="img/new/icon.png">
+                                                <img class="classic" src="html/img/new/icon.png">
 
                                             </div>
                                         </div>
-                                    </div>
+                                </div>
                     </div>
                     <!-- Start Slider Content -->
                 </div>
                 <!-- End Single Slide -->
                 <!-- Start Slingle Slide -->
-                <div class="single-slide item" style="background-image: url(img/perso/les-croisettes_2000.png)">
+                <div class="single-slide item" style="background-image: url(html/img/perso/les-croisettes_2000.png)">
 
                     <!-- <img src="img/slider/bakery.jpg"> -->
                     <!-- Start Slider Content -->
@@ -123,13 +123,13 @@
                                 <div class="row">
                                         <div class="slide-content-wrapper text-center">
                                             <div class="slide-content">
-                                                <img class="classic" src="img/logo/logoPr24.png">
+                                                <img class="classic" src="html/img/logo/logoPr24.png">
 
                                                 <h3>LES CROISETTES</h3>
                                                 <h2>Buvette d'Alpage</h2>
                                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sagittis leo vitae lacinia congue.</p>
                                                 <a class="default-btn" href="about.html">Learn more</a>
-                                                <img class="classic" src="img/new/icon.png">
+                                                <img class="classic" src="html/img/new/icon.png">
 
                                             </div>
                                     </div>
@@ -138,7 +138,7 @@
                     <!-- Start Slider Content -->
                 </div>	
                 
-                <div class="single-slide item" style="background-image: url(img/perso/les-croisettes_2000.png)">
+                <div class="single-slide item" style="background-image: url(html/img/perso/les-croisettes_2000.png)">
 
                     <!--<img src="img/slider/bakery.jpg">-->
                     <!-- Start Slider Content -->
@@ -147,13 +147,13 @@
                                 <div class="row">
                                         <div class="slide-content-wrapper text-center">
                                             <div class="slide-content">
-                                                <img class="classic" src="img/logo/cemrebakerylogo.png">
+                                                <img class="classic" src="html/img/logo/cemrebakerylogo.png">
 
                                                 <h3>BAKERY MAKES </h3>
                                                 <h2>A Taste Of  The Good Life</h2>
                                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sagittis leo vitae lacinia congue.</p>
                                                 <a class="default-btn" href="about.html">Learn more</a>
-                                                <img class="classic" src="img/new/icon.png">
+                                                <img class="classic" src="html/img/new/icon.png">
 
                                             </div>
                                     </div>
@@ -174,7 +174,7 @@
                             <div class="panel-body colorfullPanel text-center">
                                 <h3>Upp to %15 off</h3>
                                 <h2><span>June</span> Special Offer
-                                    <img class="classic" src="img/new/icon.png">
+                                    <img class="classic" src="html/img/new/icon.png">
 
                                     </h2>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sagittis leo vitae lacinia congue.</p>                            
@@ -186,7 +186,7 @@
                             <div class="panel-body colorfullPanel text-center">
                                 <h3>Are You New Here?</h3>
                                 <h2><span>Learn</span> About Us
-                                    <img class="classic" src="img/new/icon.png">
+                                    <img class="classic" src="html/img/new/icon.png">
 
                                     </h2>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sagittis leo vitae lacinia congue.</p>                            
@@ -198,7 +198,7 @@
                             <div class="panel-body colorfullPanel text-center">
                                 <h3>Are You New Here?</h3>
                                 <h2><span>Learn</span> About Us
-                                    <img class="classic" src="img/new/icon.png">
+                                    <img class="classic" src="html/img/new/icon.png">
 
                                     </h2>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sagittis leo vitae lacinia congue.</p>                            
@@ -225,7 +225,7 @@
                     <div class="col-md-4 col-sm-4 col-xs-12">
                         <div class="row">
                             <div class="col-md-12 minHeightProp">
-                                <img class="imgback" src="img/shape/shape1.png">
+                                <img class="imgback" src="html/img/shape/shape1.png">
                             </div>
                             <div class="col-md-12">
                                 <div class="text-center">
@@ -238,7 +238,7 @@
                     <div class="col-md-4 col-sm-4 col-xs-12">
                         <div class="row">
                             <div class="col-md-12 minHeightProp">
-                                <img class="imgback" src="img/shape/shape2.png">
+                                <img class="imgback" src="html/img/shape/shape2.png">
                             </div>
                             <div class="col-md-12">
                                 <div class="text-center">
@@ -251,7 +251,7 @@
                     <div class="col-md-4 col-sm-4 col-xs-12">
                         <div class="row">
                             <div class="col-md-12 minHeightProp">
-                                <img class="imgback" src="img/shape/shape3.png">
+                                <img class="imgback" src="html/img/shape/shape3.png">
                             </div>
                             <div class="col-md-12">
                                 <div class="text-center">
@@ -269,12 +269,12 @@
 
         <div class="container">
             <div class="banner"
-            style="background-image: url('img/new/1170x268.png');">
+            style="background-image: url('html/img/new/1170x268.png');">
                 <div class="content text-center">
                     <span>NEW CAKE!!! GET IT FOR $12/PAX (LIMITED)</span>
                     <h2>Strawberry Pancake</h2>
                     <h3>SHOP NOW</h3>
-                    <img class="classic" src="img/new/icon.png">
+                    <img class="classic" src="html/img/new/icon.png">
                 </div>
             </div>
         </div>
@@ -298,7 +298,7 @@
                                 <div class="post-slide">
                                     <div class="post-img">
                                         <div class="post-abs"><p>Progresso İtalian Style</p></div>
-                                        <img src="img/new/productnew.png" alt="">
+                                        <img src="html/img/new/productnew.png" alt="">
                                     </div>
                                     <h3 class="post-title"><a href="#">Progresso İtalian Style</a></h3>
                                     <p class="post-description">
@@ -309,7 +309,7 @@
                                 <div class="post-slide">
                                     <div class="post-img">
                                         <div class="post-abs"><p>Progresso İtalian Style</p></div>
-                                        <img src="img/new/productnew.png" alt="">
+                                        <img src="html/img/new/productnew.png" alt="">
 
                                     </div>
                                     <h3 class="post-title"><a href="#">Progresso İtalian Style</a></h3>
@@ -321,7 +321,7 @@
                                 <div class="post-slide">
                                     <div class="post-img">
                                         <div class="post-abs"><p>Progresso İtalian Style</p></div>
-                                        <img src="img/new/productnew.png" alt="">
+                                        <img src="html/img/new/productnew.png" alt="">
 
                                     </div>
                                     <h3 class="post-title"><a href="#">Progresso İtalian Style</a></h3>
@@ -333,7 +333,7 @@
                                 <div class="post-slide">
                                     <div class="post-img">
                                         <div class="post-abs"><p>Progresso İtalian Style</p></div>
-                                        <img src="img/new/productnew.png" alt="">
+                                        <img src="html/img/new/productnew.png" alt="">
 
                                     </div>
                                     <h3 class="post-title"><a href="#">Progresso İtalian Style</a></h3>
@@ -349,7 +349,7 @@
         </section>
         <!-- Section3 End -->
         <!-- Testimonial Area Start -->
-        <section id="section4" class="parallax-window" data-parallax="scroll" data-image-src="img/perso/ex2.jpg">
+        <section id="section4" class="parallax-window" data-parallax="scroll" data-image-src="html/img/perso/ex2.jpg">
             <h3>What We Say</h3>
             <h2>Customer Testimonial</h2>
         <div class="testimonial-area owl-theme owl-carousel" >
@@ -446,7 +446,7 @@
             </section>
         <!-- Blog Area End -->
         <!-- Address Section Start -->
-        <section id="section7" class="row address parallax-window" data-parallax="scroll" data-image-src="img/perso/buvette-d-alpage-les.jpg">
+        <section id="section7" class="row address parallax-window" data-parallax="scroll" data-image-src="html/img/perso/buvette-d-alpage-les.jpg">
             <div class="col-md-12">
                     <div class="row">
 
@@ -504,10 +504,10 @@
                             <div class="single-widget pr-60">
                                 <div class="footer-logo pb-25">
                                     <div class="col-md-4 noPadding text-center">
-                                        <a class="" href="index.html"><img class="img-responsive" src="img/logo/cemrebakerylogo.png" alt="restorant" /></a>
+                                        <a class="" href="home.php"><img class="img-responsive" src="html/img/logo/cemrebakerylogo.png" alt="restorant" /></a>
                                     </div>
                                     <div class="col-md-8 noPadding logo-text">
-                                        <a class="" href="index.html"><img class="img-responsive" src="img/logo/cemrebakerytextlogo.png" alt="restorant" /></a>
+                                        <a class="" href="home.php"><img class="img-responsive" src="html/img/logo/cemrebakerytextlogo.png" alt="restorant" /></a>
                                         <p class="colorfullText">Fresh Bakery Store</p>
                                     </div>        
                                 </div>
@@ -691,14 +691,14 @@
             </div>
         </footer>
         <!-- Footer End -->
-        <script src="js/vendor/jquery-1.12.0.min.js"></script>
-        <script src="js/jquery-easing/jquery.easing.min.js"></script>
-        <script src="js/bootstrap.min.js"></script>
-        <script src="js/parallax.min.js"></script>
-        <script src="js/ajax-mail.js"></script>
-        <script src="js/owl.carousel.min.js"></script>
-        <script src="js/jquery.nicescroll.min.js"></script>
-        <script src="js/main.js"></script>
+        <script src="html/js/vendor/jquery-1.12.0.min.js"></script>
+        <script src="html/js/jquery-easing/jquery.easing.min.js"></script>
+        <script src="html/js/bootstrap.min.js"></script>
+        <script src="html/js/parallax.min.js"></script>
+        <script src="html/js/ajax-mail.js"></script>
+        <script src="html/js/owl.carousel.min.js"></script>
+        <script src="html/js/jquery.nicescroll.min.js"></script>
+        <script src="html/js/main.js"></script>
         <script async defer
         src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC2SA2vWgP_GEDwevqDZ4lcjUuJnGUbJYI&callback=initMap">
         </script>
