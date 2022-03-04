@@ -69,7 +69,7 @@
                                             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                                                 <br><br><br>
                                                 <ul class="nav navbar-nav navbar-right navBar">
-                                                        <li class="nav-item"><a href="index.php?action=home" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">ACCUEIL <span class="sr-only">(current)</span></a></li>
+                                                        <li class="nav-item"><a href="index.php?action=home" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">ACCUEIL<span class="sr-only">(current)</span></a></li>
                                                         <li class="nav-item"><a href="index.php?action=reservation" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">RÉSERVATION</a></li>
                                                         <li class="nav-item"><a href="#section2" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">LA RÉGION</a></li>
                                                         <li class="nav-item"><a href="#section3" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">MÉDIA & ACTUALITÉS</a></li>

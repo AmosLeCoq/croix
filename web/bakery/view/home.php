@@ -10,7 +10,7 @@
 ob_start();
 $title = "home";
 ?>
-    <!-- Section0 Area Start -->
+<!-- Section0 Area Start -->
 <section id="section0" class="slider-area">
     <div class="main-slider owl-theme owl-carousel">
 
@@ -20,97 +20,97 @@ $title = "home";
             <!-- <img src="img/slider/bakery.jpg"> -->
             <!-- Start Slider Content -->
 
-                <div class="slider-content-area">
-                        <div class="row">
-                                <div class="slide-content-wrapper text-center">
-                                    <div class="slide-content">
-                                        <img class="classic" src="html/img/logo/logoPr24.png">
+            <div class="slider-content-area">
+                <div class="row">
+                    <div class="slide-content-wrapper text-center">
+                        <div class="slide-content">
+                            <img class="classic" src="html/img/logo/logoPr24.png">
 
-                                        <h3>LES CROISETTES</h3>
-                                        <h2>Buvette d'Alpage</h2>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sagittis leo vitae lacinia congue.</p>
-                                        <a class="default-btn" href="about.html">Learn more</a>
-                                        <img class="classic" src="html/img/new/icon.png">
+                            <h3>LES CROISETTES</h3>
+                            <h2>Buvette d'Alpage</h2>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sagittis leo vitae lacinia congue.</p>
+                            <a class="default-btn" href="about.html">Learn more</a>
+                            <img class="classic" src="html/img/new/icon.png">
 
-                                    </div>
-                            </div>
-                    </div>
-          </div>
-        </div>
-
-     </div>
-</section>
-
-<!-- Section0 Area End -->
-    <!-- Section3 Start -->
-    <section id="section3">
-        <div class="container">
-
-            <div class="row">
-                <div class="col-xs-12">
-                    <div class="section-title text-center">
-                        <h3>Premium Quality</h3>
-                        <h2>Cemre Bakery Fresh Cakes</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="container">
-                    <div class="col-md-12 noPadding">
-                        <div id="news-slider" class="news-slider owl-theme owl-carousel">
-                            <div class="post-slide">
-                                <div class="post-img">
-                                    <div class="post-abs"><p>Progresso İtalian Style</p></div>
-                                    <img src="html/img/new/productnew.png" alt="">
-                                </div>
-                                <h3 class="post-title"><a href="#">1</a></h3>
-                                <p class="post-description">
-                                    12$
-                                </p>
-                            </div>
-
-                            <div class="post-slide">
-                                <div class="post-img">
-                                    <div class="post-abs"><p>Progresso İtalian Style</p></div>
-                                    <img src="html/img/new/productnew.png" alt="">
-
-                                </div>
-                                <h3 class="post-title"><a href="#">2</a></h3>
-                                <p class="post-description">
-                                    12$
-                                </p>
-                            </div>
-
-                            <div class="post-slide">
-                                <div class="post-img">
-                                    <div class="post-abs"><p>Progresso İtalian Style</p></div>
-                                    <img src="html/img/new/productnew.png" alt="">
-
-                                </div>
-                                <h3 class="post-title"><a href="#">3</a></h3>
-                                <p class="post-description">
-                                    12$
-                                </p>
-                            </div>
-
-                            <div class="post-slide">
-                                <div class="post-img">
-                                    <div class="post-abs"><p>Progresso İtalian Style</p></div>
-                                    <img src="html/img/new/productnew.png" alt="">
-
-                                </div>
-                                <h3 class="post-title"><a href="#">4</a></h3>
-                                <p class="post-description">
-                                    12$
-                                </p>
-                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </section>
-    <!-- Section3 End -->
+
+    </div>
+</section>
+
+<!-- Section0 Area End -->
+<!-- Section3 Start -->
+<section id="section3">
+    <div class="container">
+
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="section-title text-center">
+                    <h3>Premium Quality</h3>
+                    <h2>Les Croisettes</h2>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="container">
+                <div class="col-md-12 noPadding">
+                    <div id="news-slider" class="news-slider owl-theme owl-carousel">
+                        <div class="post-slide">
+                            <div class="post-img">
+                                <div class="post-abs"><p>Progresso İtalian Style</p></div>
+                                <img src="html/img/perso/menu.jpg" alt="">
+                            </div>
+                            <h3 class="post-title"><a href="#">1</a></h3>
+                            <p class="post-description">
+                                12$
+                            </p>
+                        </div>
+
+                        <div class="post-slide">
+                            <div class="post-img">
+                                <div class="post-abs"><p>Progresso İtalian Style</p></div>
+                                <img src="html/img/perso/menu3.jpg" alt="">
+
+                            </div>
+                            <h3 class="post-title"><a href="#">2</a></h3>
+                            <p class="post-description">
+                                12$
+                            </p>
+                        </div>
+
+                        <div class="post-slide">
+                            <div class="post-img">
+                                <div class="post-abs"><p>Progresso İtalian Style</p></div>
+                                <img src="html/img/perso/menu2.jpg" alt="">
+
+                            </div>
+                            <h3 class="post-title"><a href="#">3</a></h3>
+                            <p class="post-description">
+                                12$
+                            </p>
+                        </div>
+
+                        <div class="post-slide">
+                            <div class="post-img">
+                                <div class="post-abs"><p>Progresso İtalian Style</p></div>
+                                <img src="html/img/perso/menu1.jpg" alt="">
+
+                            </div>
+                            <h3 class="post-title"><a href="#">4</a></h3>
+                            <p class="post-description">
+                                12$
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Section3 End -->
 <!-- Section2 Start -->
 <section id="section2">
     <div class="container">
