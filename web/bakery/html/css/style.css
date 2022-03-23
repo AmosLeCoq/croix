@@ -1578,6 +1578,11 @@ li.address-section .fa{
   padding: 50px;
 }
 
+.footer-area{
+
+    background-color: #000000;
+}
+
 .footer-social li:first-child {
   margin-left: 0px;
 }

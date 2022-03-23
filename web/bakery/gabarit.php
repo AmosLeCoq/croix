@@ -100,7 +100,7 @@
                             <div class="single-widget pr-60">
                                 <div class="footer-logo pb-25">
                                     <div class="col-md-8 noPadding logo-text">
-                                        <a class="" href="home.php"><img class="img-responsive" src="html/img/logo/logoPr23.png" alt="restorant" /></a>
+                                        <a href="home.php"><img class="img-responsive" src="html/img/logo/logoPr23.png" alt="restorant" /></a>
                                         <p class="colorfullText">Fresh Bakery Store</p>
                                     </div>
                                 </div>
