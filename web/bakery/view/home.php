@@ -54,60 +54,6 @@ $title = "home";
                 </div>
             </div>
         </div>
-        <div class="row">
-            <div class="container">
-                <div class="col-md-12 noPadding">
-                    <div id="news-slider" class="news-slider owl-theme owl-carousel">
-                        <div class="post-slide">
-                            <div class="post-img">
-                                <div class="post-abs"><p>Progresso İtalian Style</p></div>
-                                <img src="html/img/perso/menu.jpg" alt="">
-                            </div>
-                            <h3 class="post-title"><a href="#">1</a></h3>
-                            <p class="post-description">
-                                12$
-                            </p>
-                        </div>
-
-                        <div class="post-slide">
-                            <div class="post-img">
-                                <div class="post-abs"><p>Progresso İtalian Style</p></div>
-                                <img src="html/img/perso/menu3.jpg" alt="">
-
-                            </div>
-                            <h3 class="post-title"><a href="#">2</a></h3>
-                            <p class="post-description">
-                                12$
-                            </p>
-                        </div>
-
-                        <div class="post-slide">
-                            <div class="post-img">
-                                <div class="post-abs"><p>Progresso İtalian Style</p></div>
-                                <img src="html/img/perso/menu2.jpg" alt="">
-
-                            </div>
-                            <h3 class="post-title"><a href="#">3</a></h3>
-                            <p class="post-description">
-                                12$
-                            </p>
-                        </div>
-
-                        <div class="post-slide">
-                            <div class="post-img">
-                                <div class="post-abs"><p>Progresso İtalian Style</p></div>
-                                <img src="html/img/perso/menu1.jpg" alt="">
-
-                            </div>
-                            <h3 class="post-title"><a href="#">4</a></h3>
-                            <p class="post-description">
-                                12$
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
     </div>
 </section>
 <!-- Section3 End -->

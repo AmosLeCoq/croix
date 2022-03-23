@@ -99,11 +99,8 @@
                         <div class="col-md-3 col-sm-6 col-xs-12">
                             <div class="single-widget pr-60">
                                 <div class="footer-logo pb-25">
-                                    <div class="col-md-4 noPadding text-center">
-                                        <a class="" href="home.php"><img class="img-responsive" src="html/img/logo/cemrebakerylogo.png" alt="restorant" /></a>
-                                    </div>
                                     <div class="col-md-8 noPadding logo-text">
-                                        <a class="" href="home.php"><img class="img-responsive" src="html/img/logo/cemrebakerytextlogo.png" alt="restorant" /></a>
+                                        <a class="" href="home.php"><img class="img-responsive" src="html/img/logo/logoPr23.png" alt="restorant" /></a>
                                         <p class="colorfullText">Fresh Bakery Store</p>
                                     </div>
                                 </div>
